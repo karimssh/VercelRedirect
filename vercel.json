@@ -1,0 +1,10 @@
+
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "http://ip217-160-20-170.pbiaas.com/:path*",
+      "permanent": true
+    }
+  ]
+}
