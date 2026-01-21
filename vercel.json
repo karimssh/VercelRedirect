@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "http://ip217-160-20-170.pbiaas.com/:path*",
+      "destination": "http://5.230.220.131/:path*",
       "permanent": true
     }
   ]
